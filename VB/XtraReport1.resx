@@ -181,7 +181,7 @@
   <data name="xrLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>142, 25</value>
   </data>
-  <assembly alias="DevExpress.Utils.v12.1" name="DevExpress.Printing.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <assembly alias="DevExpress.Utils.v12.1" name="DevExpress.Printing.v13.1.Core, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
   <data name="XtraReport1.ExportOptions.Text.EncodingType" type="DevExpress.XtraPrinting.EncodingType, DevExpress.Utils.v13.1">
     <value>Default</value>
   </data>
